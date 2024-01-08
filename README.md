@@ -13,6 +13,9 @@ Not used as dataset do not require integration from multiple sources.
 3. "Profession" and "LoyaltyTier" empty cells filled with "None" and "Unknown" respectively to ensure no empty data for decision tree application.
 4. Data exported as CSV delimited in Comma
 
+![image](https://github.com/s2134622alexlimcl/wqd7005/assets/102635703/67ee5c58-6e7f-433b-9289-2f9fc55dca66)
+
+
 # SAS Enterprise Miner
 
 Overall EM Diagram
